@@ -52,6 +52,9 @@ You can use and modify it but you have to quote the original source.
 
 * Developer : Rodolphe Asséré
 * Extracted and reworked from a project with : Thibault Bougerolles, Antoine Gazagne, Benjamin Roux and Alexis Laurent
+
+## External resources
+
 * [Pikachu 3D model]( https://github.com/hieuqdo/cs583pokemonfighter/blob/master/3D%20Game/3D%20Game/3D%20GameContent/Models/Pikachu.FBX)
 
 ## Any Question ?
