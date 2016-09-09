@@ -1,8 +1,8 @@
 <snippet>
-  <content><![CDATA[
-# ${1:Hologram Pyramid}
+  
+# Hologram Pyramid
 
-Package to display a model on a 3 side hologram.
+Package to display a 3d model on a 3 side hologram.
 
 ![alt tag](https://github.com/Jakeur/hologram_pyramid/blob/master/images/dragon_front.jpeg)
 
@@ -23,18 +23,27 @@ Download the .unitypackage file.
 ## Architecture
 
 ![alt tag](https://github.com/Jakeur/hologram_pyramid/blob/master/images/architecture.png)
+
 General architecture
 
+
 ![alt tag](https://github.com/Jakeur/hologram_pyramid/blob/master/images/three_cameras.png)
+
 The system has 3 different cameras (front, left and right).
 
+
 ![alt tag](https://github.com/Jakeur/hologram_pyramid/blob/master/images/target_texture.png)
+
 Cameras are displayed in associated target texture.
 
+
 ![alt tag](https://github.com/Jakeur/hologram_pyramid/blob/master/images/display.png)
+
 Target Texture are dispatched on a canvas containing 3 displays. Each display has the target texture as source.
 
+
 ![alt tag](https://github.com/Jakeur/hologram_pyramid/blob/master/images/fit_to_screen.png)
+
 If it doesn't fit to your physical hologram, you can adjust them by moving LeftDisp, RightDisp or FrontDisp.
 
 ## To go Further
@@ -56,6 +65,4 @@ Pikachu 3D model : https://github.com/hieuqdo/cs583pokemonfighter/blob/master/3D
 
 Feel free to contact me at [rodolphe1.assere@epitech.eu](mailto:rodolphe1.assere@epitech.eu).
 
-]]></content>
-  <tabTrigger>readme</tabTrigger>
 </snippet>
