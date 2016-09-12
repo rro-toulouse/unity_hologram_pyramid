@@ -12,7 +12,7 @@ These instructions will show you how easy it is to use this package.
 
 ### Prerequisities
 
-Download the .unitypackage file.
+Download the .unitypackage file and import it in Unity (Assets -> Import package -> Custom package...).
 
 ### Installation
 
