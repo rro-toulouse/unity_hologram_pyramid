@@ -1,8 +1,8 @@
 <snippet>
   
-# Hologram Pyramid
+# Unity Hologram Pyramid
 
-Package to display a 3d model on a 3 side hologram.
+Package to display a 3d model on a 3 side hologram on Unity.
 
 ![alt tag](https://github.com/Jakeur/hologram_pyramid/blob/master/images/dragon_front.jpeg)
 
@@ -50,7 +50,7 @@ You can use and modify it but you have to quote the original source.
 
 ## Authors
 
-* Developer : Rodolphe Asséré
+* Developer : Rodolphe AssÃ©rÃ©
 * Extracted and reworked from a project with : Thibault Bougerolles, Antoine Gazagne, Benjamin Roux and Alexis Laurent
 
 ## External resources
