@@ -59,6 +59,6 @@ You can use and modify it but you have to quote the original source.
 
 ## Any Question ?
 
-Feel free to contact me at [rodolphe1.assere@epitech.eu](mailto:rodolphe1.assere@epitech.eu).
+Feel free to contact me at [rodolphe.assere@gmail.com](mailto:rodolphe.assere@gmail.com).
 
 </snippet>
